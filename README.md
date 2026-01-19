@@ -18,8 +18,6 @@ This is an official website designed for traditional industry companies, adoptin
 
 * JavaScript (For simple interactions, such as navigation bar responsiveness)
 
-* [Other libraries can be added here, such as jQuery, Bootstrap, etc., if used]
-
 ## Project Showcase
 **[Click here to access the online preview](https://slayertsoi.github.io/CompanyWebsite1/)**
 
