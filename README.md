@@ -26,17 +26,6 @@ This corporate website, designed in the classic Hong Kong commercial aesthetic, 
 
 * **Git & GitHub Pages:** For version control and free static site deployment.
 
-## 📁 Project Structure
-
-CompanyWebsite1/
-├── index.html 
-├── css/
-│ └── style.css 
-├── js/
-│ └── script.js 
-├── images/
-└── README.md
-
 ## 🚀 Running Locally
 
 1. Clone this repository: `git clone https://github.com/SlayerTsoi/CompanyWebsite1.git`
