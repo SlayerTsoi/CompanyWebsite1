@@ -1,27 +1,48 @@
-# Company Website - Traditional Style
+# Classic Corporate Website
 
-This is an official website designed for traditional industry companies, adopting a classic Hong Kong commercial website style that emphasizes clear information and a sense of stability.
+This corporate website, designed in the classic Hong Kong commercial aesthetic, emphasizes clear information and a stable structure, aiming to establish a reliable online presence for traditional businesses.
 
-## Project Features
-* **Classic Hong Kong Layout:** Clear top navigation, banner carousel, and multi-section content partitioning, conforming to local user browsing habits.
+## 🌐 Live Demo
 
-* **Traditional Color Scheme and Texture:** Uses stable colors such as deep red and gold, combined with embossed and shadow effects to create a sense of trust and professionalism.
+**[Click here to view the website](https://slayertsoi.github.io/CompanyWebsite1/)**
 
-* **Clear Information Display:** Structured "About Us," "Services," and "Contact Us" sections facilitate quick information retrieval for users.
+## ✨ Features & Highlights
 
-* **Fully Responsive Design:** Adapts to various screen sizes from desktop to mobile devices.
+* **Classic Hong Kong Commercial Design**: Employing a deep blue main color scheme with gold accents and a clear, partitioned card layout, it conforms to the aesthetic habits of local business websites, conveying professionalism and trustworthiness.
 
-## Tech Stack
+* **Clear Information Architecture**: The navigation is clear, including standard business sections such as "About Us," "Our Services," "Success Stories," and "Contact Us," allowing users to quickly locate information.
 
-* HTML5
-* CSS3 (Native CSS for styling and layout)
+* **Fully Responsive Layout:** Implemented using CSS media queries, ensuring a smooth browsing experience across desktop, tablet, and mobile devices.
 
-* JavaScript (For simple interactions, such as navigation bar responsiveness)
+* **Pure Front-End Implementation:** The project does not rely on any external CSS frameworks (such as Bootstrap), showcasing native front-end capabilities built and laid out from scratch.
 
-## Project Showcase
-**[Click here to access the online preview](https://slayertsoi.github.io/CompanyWebsite1/)**
+## 🛠️ Tech Stack
 
-## Design Notes
-This project aims to showcase the developer's understanding and front-end implementation capabilities of **traditional business aesthetics of a specific region (Hong Kong)**. The website has a stable style and a clear information architecture, suitable for law firms, trading companies, local financial institutions, and other businesses that need to establish an authoritative and trustworthy image.
+* **HTML5:** Semantic tags for building content structure.
 
---- *This project is part of my front-end development portfolio. Feel free to explore the code.*
+* **CSS3:** Implementing styles, Flexbox layout, responsive design, and hover interaction effects.
+
+* **JavaScript (ES6):** Implementing simple interactive logic (such as future expandable navigation menu switching).
+
+* **Git & GitHub Pages:** For version control and free static site deployment.
+
+## 📁 Project Structure
+
+CompanyWebsite1/
+├── index.html 
+├── css/
+│ └── style.css 
+├── js/
+│ └── script.js 
+├── images/
+└── README.md
+
+## 🚀 Running Locally
+
+1. Clone this repository: `git clone https://github.com/SlayerTsoi/CompanyWebsite1.git`
+
+2. Enter the project directory: `cd CompanyWebsite1`
+
+3. Open the `index.html` file using any local server (such as a Live Server), or double-click to open it directly in your browser.
+
+--- *This project is a personal front-end development exercise. Feel free to refer to and learn.*
